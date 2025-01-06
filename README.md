@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Olá, eu sou **Deividy Lima**!  
 
 ### 🚀 **Analista de Sistemas | Docente | Analista de Suporte de TI Pleno**  
