@@ -16,9 +16,7 @@
 
 ## 📈 **Estatísticas do GitHub**  
 ![Deividy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeividyLima&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividyLima&layout=compact&theme=tokyonight)  
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividyLima&layout=compact&theme=tokyonight)  ---
 
 ## 🌟 **Sobre Mim**  
 
