@@ -19,11 +19,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividyLima&layout=compact&theme=tokyonight)  ---
 
 ## 🌟 **Sobre Mim**  
-
-- 🧑‍🏫 Atuo como **Docente** no Ensino Superior.  
-- 💻 Experiência sólida como **Analista de Suporte de TI Pleno**.  
-- 📊 Estudante dedicado de **Ciência de Dados** e entusiasta do mundo dos dados.  
-- 📚 Pós-graduando em **Docência no Ensino Superior**.  
+- 💻 Experiência sólida como **Analista de Suporte de TI**.  
+- 📊 Estudante dedicado de **Ciência de Dados e Amazon Web Services** e entusiasta do mundo dos dados.  
+- 📚 Pós-graduado em **Docência no Ensino Superior**.
+- - 🧑‍🏫 Atuei como **Docente** no Ensino Superior.  
 - 🎯 Sempre buscando **novos desafios** e **aprendizado contínuo**.  
 
 ---
