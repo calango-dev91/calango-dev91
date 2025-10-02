@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou **Deividy Lima**!  
 
 ### 🚀 **Analista de Sistemas | Docente | Analista de Suporte de TI Pleno**  
-🎓 **Pós-graduando em Docência para o Ensino Superior**  
+🎓 **Pós-graduado em Docência para o Ensino Superior**  
 📊 **Apaixonado por Ciência de Dados e Tecnologia**  
 
 ---
